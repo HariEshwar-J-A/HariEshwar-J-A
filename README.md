@@ -33,7 +33,7 @@ const hari = {
             member: "python-for-fun",
             mentor: "R.M.D Engineering College - EEE Chapter"
           },
-  challenge: "I am seeking full time opportunities starting September 2025"
+  challenge: "I am seeking full time opportunities starting April 2025"
 }
 ```
 
