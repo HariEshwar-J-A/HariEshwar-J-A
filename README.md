@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi There 👋
 
 <h2> I'm Harieshwar Jagan Abirami! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVibmtjZzZ5cnUxYTVzdXB2MGpzN3ZtMzEwcGlxOG9nNWM1ZjQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="270">
-<p><em>Graduate Student at <a href="https://www.mcmaster.ca/">McMaster University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex Senior Project Engineer at <a href="https://www.solitontech.com/">Soliton Technologies Pvt. Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Freelance Full Stack Web Developer</br>Master of Engineer from <a href="https://www.mcmaster.ca/">McMaster University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex DevOps Engineer at <a href="https://soti.net/">SOTI Inc.</a></br>Ex Senior Project Engineer at <a href="https://www.solitontech.com/">Soliton Technologies Pvt. Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: HariSpartan](https://img.shields.io/twitter/follow/hariSpartan1?style=social)](https://twitter.com/hariSpartan_1)
@@ -13,27 +13,32 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const hari = {
+const HARIESHWAR = {
   pronouns: "he" | "him",
   code: [
-            Javascript, Typescript, HTML, CSS, SCSS, Ruby, Python, Java, C, C++, LabVIEW, c#, Go, SQL, PLC
+            Javascript (ECMA6+), Typescript, Node.js, HTML, CSS, Ruby, Python, 
+            Powershell, Grrovy, Java, C, C++, LabVIEW, C#, Go, SQL, PLC
           ],
   tools: [
-            React, Redux, Material UI, Three.js, D3.js, React Saga, Redux Toolkit, Styled-Components,
+            React, Redux, Material UI, Three.js, D3.js, React Saga, Redux Toolkit, 
+            Styled-Components, SCSS, TailwindCSS, Vite, Next.js, OAuth2,
             Jest, React Testing Library,
-            Node, Express.js, Django, FastAPI,
-            Docker, Kubernetes,
-            OPC UA, Elastic Stack,
-            PostgreSQL DB, MongoDB, Influx DB
+            Node.js, Express.js, Django, FastAPI, Flask,
+            Docker, Kubernetes, Jenkins, Elastic Stack, Grafana,
+            OPC UA, MQTT, Modbus, I2C,
+            PostgreSQL DB, MongoDB, Influx DB, MySQL, SQLite,
+            AWS (EC2, Lambda), Microsoft Azure Cloud, Supabase, Firebase, Google Cloud Console
           ],
   architecture: [
-            "microservices", "micro-frontend", "data-driven", "event-driven", "design system pattern"
+            "microservices", "micro-frontend", "data-driven", "event-driven", 
+            "design-pattern", "high-level-design", "low-level-design"
           ],
   techCommunities: {
             member: "python-for-fun",
             mentor: "R.M.D Engineering College - EEE Chapter"
           },
-  challenge: "I am seeking full time opportunities starting April 2025"
+  challenge: "I am seeking full time opportunities starting April 2025",
+  funFact: "I support 'Family Guy' & 'The Office' 😉"
 }
 ```
 
